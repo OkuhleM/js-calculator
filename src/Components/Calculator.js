@@ -180,6 +180,10 @@ function Calculator() {
       >
         =
       </button>
+
+      <footer>
+        <p>OkuhleM &copy; {new Date().getFullYear()} Calculator</p>
+      </footer>
     </div>
   );
 }
